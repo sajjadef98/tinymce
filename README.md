@@ -36,12 +36,12 @@ This project integrates the **TinyMCE** rich text editor with **Bootstrap 5** an
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/sajjadef98/tinymce-php-upload.git  
+   git clone https://github.com/sajjadef98/tinymce.git  
    ```  
 
 2. **Navigate to the project directory:**  
    ```bash  
-   cd tinymce-php-upload  
+   cd tinymce  
    ```  
 
 3. **Run the project in a local server (e.g., XAMPP, WAMP, MAMP):**  
@@ -50,7 +50,7 @@ This project integrates the **TinyMCE** rich text editor with **Bootstrap 5** an
 
 4. **Open the project in your browser:**  
    ```  
-   http://localhost/tinymce-php-upload/tinymc.php  
+   http://localhost/tinymce/tinymc.php  
    ```  
 
 ---  
@@ -58,7 +58,7 @@ This project integrates the **TinyMCE** rich text editor with **Bootstrap 5** an
 ## 📂 File Structure | ساختار فایل‌ها  
 
 ```
-tinymce-php-upload/  
+tinymce/  
 │-- tinymc.php            # Main TinyMCE integration file  
 │-- upload.php            # PHP script for image uploads  
 │-- submit.php            # Handles form submission  
