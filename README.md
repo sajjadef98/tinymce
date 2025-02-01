@@ -36,7 +36,7 @@ This project integrates the **TinyMCE** rich text editor with **Bootstrap 5** an
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/yourusername/tinymce-php-upload.git  
+   git clone https://github.com/sajjadef98/tinymce-php-upload.git  
    ```  
 
 2. **Navigate to the project directory:**  
